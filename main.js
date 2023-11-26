@@ -1,3 +1,4 @@
+// BMI Calculator with JS file
 const weightInput = document.getElementById("weightInput");
 const heightInput = document.getElementById("heightInput");
 const calculateBtn = document.getElementById("calculateBtn");
